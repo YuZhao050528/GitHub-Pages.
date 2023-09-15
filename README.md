@@ -1,2 +1,2 @@
 # GitHub-Pages.
-Learning about github pages
+Learning about Github pages
